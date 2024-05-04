@@ -1,0 +1,9 @@
+{
+	"name": "Data-Covid",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72effda0-6ba4-47ca-8332-d4a036b26cf7",
+		"tenantId": "cbf17dbe-ae61-4a6b-bdc2-7ae8d032f75e"
+	}
+}
